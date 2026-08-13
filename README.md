@@ -47,8 +47,11 @@ Para ejecutar el sistema en tu entorno local, completa los siguientes pasos:
 El sistema está configurado para tener una conexión a una base de datos local y generar las tablas de forma automática.
 
 1- Inicia Laragon y clickea en "Iniciar todo".
+
 2- Abre HeidiSQL y asegúrate de que el puerto sea el correcto.
+
 3- Crea una base de datos con el nombre de: "blockbuster".
+
 4- Usar Postman para hacer los JSON de los datos que quieras agregar o modificar.
 
 --------------------------------------------------------------------------------------------------------------------------------
