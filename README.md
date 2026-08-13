@@ -58,6 +58,6 @@ El sistema está configurado para tener una conexión a una base de datos local 
 
 ## Autor
 
-**[Benjamin Labrin](https://github.com/Benjamin-Labrin)**
+**[Benjamin Labrin](https://github.com/Blabrin)**
 
 Estudiante Ingeniería Informática DUOC UC
